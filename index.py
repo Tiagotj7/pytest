@@ -16,8 +16,13 @@ w= x*y*z
 
 m= x+y/z
 
+p= x-y-z
+
 #Resultado
 
 print("Resultado de t:",t)
 print("Resultado de w:",w)
 print("Resultado de m:",m)
+print("Resultado de p:",p)
+
+#The End
